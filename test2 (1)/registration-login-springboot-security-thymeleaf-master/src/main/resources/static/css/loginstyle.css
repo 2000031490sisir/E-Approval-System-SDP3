@@ -1,0 +1,72 @@
+button{
+	background:linear-gradient(to bottom right,#DF98FA,#9055FF);
+}
+a{
+	color: #DF98FA;
+}
+.navbar-brand{
+	float:left;
+}
+.container{
+	width:50%;
+	float:right;
+}
+.leftcolor{
+	float:left;
+	width:48%;
+	background: linear-gradient(to bottom right,#DF98FA,#9055FF);
+	border-style:none;
+	border-radius:20px;
+	border-color:none;
+	height:13cm;
+	margin-left:10px;
+	
+}
+.leftcolor img{
+	margin-left:18%;
+	width:10cm;
+	border-style:none;
+	border-radius:20px;
+	border-color:none;
+	margin-top: 10%;
+}
+.card-header{
+	background: linear-gradient( to bottom right,#737DFE, #FFCAC9);
+	border-style:none;
+	border-radius:20px;
+}
+.navbar{
+	background:linear-gradient(to bottom right,#DF98FA,#9055FF);
+}
+.leftlogincolor{
+	float:left;
+	width:48%;
+	background: #12D2DA;
+	border-style:none;
+	border-radius:20px;
+	border-color:none;
+	height:13cm;
+	margin-left:10px;
+	
+}
+.leftlogincolor img{
+	margin-left:12%;
+	width:12cm;
+	border-style:none;
+	border-radius:20px;
+	border-color:none;
+	margin-top: 10%;
+	height:10cm;
+}
+.loginheading{
+	font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-size:x-large;
+	margin-bottom:20px;
+	margin-left:20px;
+}
+.container1{
+	float:right;
+	width:50%;
+	margin-top:5%;
+	
+}

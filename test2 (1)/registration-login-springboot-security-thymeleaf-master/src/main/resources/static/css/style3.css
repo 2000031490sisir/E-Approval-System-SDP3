@@ -1,0 +1,26 @@
+.navbar{
+	background:linear-gradient(to bottom right,#DF98FA,#9055FF);
+}
+.container thead{
+    background: linear-gradient( to bottom right,#737DFE, #FFCAC9);
+    border-style:none;
+    border-radius:20px;
+}
+.row{
+	margin-top:30px;
+	margin-bottom:80px;
+	border-style:solid;
+	border-color:#9055FF;
+	border-radius:10px;
+	
+}
+.table-dark tr th{
+	background:#FFCAC9;
+	color:black;
+	border-color:black;
+	text-align:center;
+}
+tr{
+	background:white;
+	border-collapse:collapse;
+}
